@@ -23,6 +23,11 @@ Seaborn graphs are broadly divided into six categories:
 - strip
 
 4. Regression Plot
+
 5. Matrix Plot
+
+- heatmap
+- clustermap
+
 6. Residual Plot
 7. Multi Plot
